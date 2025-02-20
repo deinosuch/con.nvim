@@ -180,6 +180,7 @@ require('lazy').setup({
   require 'plugins.lint',
   require 'plugins.autopairs',
   require 'plugins.gitsigns',
+  require 'plugins.tmux_nav',
 
   -- Highlight todo, notes, etc in comments
   { 'folke/todo-comments.nvim', event = 'VimEnter', dependencies = { 'nvim-lua/plenary.nvim' }, opts = { signs = false } },
