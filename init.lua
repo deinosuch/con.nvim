@@ -178,7 +178,6 @@ require('lazy').setup({
   require 'plugins.debug',
   require 'plugins.indent_line',
   require 'plugins.lint',
-  require 'plugins.autopairs',
   require 'plugins.gitsigns',
   require 'plugins.tmux_nav',
 
