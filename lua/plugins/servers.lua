@@ -8,6 +8,7 @@ return {
   marksman = {},
   pyright = {},
   dockerls = {},
+  hyprls = {},
 
   lua_ls = {
     -- cmd = {...},
