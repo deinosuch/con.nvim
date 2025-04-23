@@ -6,7 +6,7 @@ return {
   cmake = {},
   bashls = {},
   marksman = {},
-  pyright = {},
+  pylsp = {},
   dockerls = {},
   hyprls = {},
 
